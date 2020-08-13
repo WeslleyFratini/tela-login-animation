@@ -1,0 +1,12 @@
+{
+  "name": "login-animacao",
+  "displayName": "login-animacao",
+  "expo": {
+    "name": "login-animacao",
+    "slug": "login-animacao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
